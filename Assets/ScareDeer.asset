@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb5246a0a3d8334a96f9cc287a9a383, type: 3}
+  m_Name: ScareDeer
+  m_EditorClassIdentifier: 
+  gameText: You see a gun and you shoot it in the air to scare the deer. The deer
+    disappears into thin air. Evaporating as if it was only steam. As you explore
+    you hear someone enter the station. Do you greet them(left) or hide(right)?
+  otherStates:
+  - {fileID: 11400000, guid: 1374b6cbe5a721449bf173d5d4d1aaf7, type: 2}
+  - {fileID: 11400000, guid: 64a98dd1ca0c45e4083373b40bf1b1bd, type: 2}

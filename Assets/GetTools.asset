@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb5246a0a3d8334a96f9cc287a9a383, type: 3}
+  m_Name: GetTools
+  m_EditorClassIdentifier: 
+  gameText: You head with the stranger and help them carry their tools. As you head
+    back the deer shows up again. Do you ignore the deer(left) or shoot at it(right)?
+  otherStates:
+  - {fileID: 11400000, guid: b18b8002f7f6b134c8daa4827169428f, type: 2}
+  - {fileID: 11400000, guid: 0df2118c197934543beef3e5775c47b2, type: 2}

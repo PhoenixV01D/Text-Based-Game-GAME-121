@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb5246a0a3d8334a96f9cc287a9a383, type: 3}
+  m_Name: Start
+  m_EditorClassIdentifier: 
+  gameText: Your car broke down outside of a town named Whispering Moss. A sign points
+    left towards a gas station and right towards City Hall. Which way do you go?
+    (Use left or right arrow key)
+  otherStates:
+  - {fileID: 11400000, guid: bbbee481c5e00ee49aed3129712aeb69, type: 2}
+  - {fileID: 11400000, guid: 2ca68d21209be354cb87a187656b0a83, type: 2}

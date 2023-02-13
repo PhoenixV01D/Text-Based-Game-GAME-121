@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9eb5246a0a3d8334a96f9cc287a9a383, type: 3}
+  m_Name: FreezerMishap
+  m_EditorClassIdentifier: 
+  gameText: You hide in the freezer, but the door locks behind you. You are found
+    a week later frozen like a popsicle. GAME OVER (Left or Right to restart)
+  otherStates:
+  - {fileID: 11400000, guid: 3873bf836db5f3f499c83d8f2581f101, type: 2}
+  - {fileID: 11400000, guid: 3873bf836db5f3f499c83d8f2581f101, type: 2}
